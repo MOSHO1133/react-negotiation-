@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1,
+  "item": "laptop",
+  "buyer_budget": 300,
+  "seller_floor": 400,
+  "list_price": 620,
+  "feasible": false
+ },
+ {
+  "id": 2,
+  "item": "bicycle",
+  "buyer_budget": 750,
+  "seller_floor": 970,
+  "list_price": 1440,
+  "feasible": false
+ },
+ {
+  "id": 3,
+  "item": "sofa",
+  "buyer_budget": 650,
+  "seller_floor": 570,
+  "list_price": 880,
+  "feasible": true
+ },
+ {
+  "id": 4,
+  "item": "phone",
+  "buyer_budget": 1210,
+  "seller_floor": 1000,
+  "list_price": 1670,
+  "feasible": true
+ },
+ {
+  "id": 5,
+  "item": "camera",
+  "buyer_budget": 620,
+  "seller_floor": 540,
+  "list_price": 960,
+  "feasible": true
+ },
+ {
+  "id": 6,
+  "item": "guitar",
+  "buyer_budget": 500,
+  "seller_floor": 550,
+  "list_price": 730,
+  "feasible": false
+ },
+ {
+  "id": 7,
+  "item": "desk",
+  "buyer_budget": 870,
+  "seller_floor": 1030,
+  "list_price": 1370,
+  "feasible": false
+ },
+ {
+  "id": 8,
+  "item": "monitor",
+  "buyer_budget": 970,
+  "seller_floor": 680,
+  "list_price": 1370,
+  "feasible": true
+ },
+ {
+  "id": 9,
+  "item": "watch",
+  "buyer_budget": 890,
+  "seller_floor": 690,
+  "list_price": 1220,
+  "feasible": true
+ },
+ {
+  "id": 10,
+  "item": "printer",
+  "buyer_budget": 970,
+  "seller_floor": 820,
+  "list_price": 1440,
+  "feasible": true
+ },
+ {
+  "id": 11,
+  "item": "microwave",
+  "buyer_budget": 820,
+  "seller_floor": 670,
+  "list_price": 1270,
+  "feasible": true
+ },
+ {
+  "id": 12,
+  "item": "tablet",
+  "buyer_budget": 220,
+  "seller_floor": 180,
+  "list_price": 340,
+  "feasible": true
+ },
+ {
+  "id": 13,
+  "item": "headphones",
+  "buyer_budget": 130,
+  "seller_floor": 120,
+  "list_price": 180,
+  "feasible": true
+ },
+ {
+  "id": 14,
+  "item": "treadmill",
+  "buyer_budget": 1290,
+  "seller_floor": 880,
+  "list_price": 1920,
+  "feasible": true
+ },
+ {
+  "id": 15,
+  "item": "bookshelf",
+  "buyer_budget": 760,
+  "seller_floor": 1020,
+  "list_price": 1460,
+  "feasible": false
+ },
+ {
+  "id": 16,
+  "item": "drone",
+  "buyer_budget": 420,
+  "seller_floor": 290,
+  "list_price": 530,
+  "feasible": true
+ },
+ {
+  "id": 17,
+  "item": "keyboard",
+  "buyer_budget": 190,
+  "seller_floor": 240,
+  "list_price": 300,
+  "feasible": false
+ },
+ {
+  "id": 18,
+  "item": "scooter",
+  "buyer_budget": 1450,
+  "seller_floor": 1020,
+  "list_price": 2090,
+  "feasible": true
+ },
+ {
+  "id": 19,
+  "item": "fridge",
+  "buyer_budget": 890,
+  "seller_floor": 610,
+  "list_price": 1180,
+  "feasible": true
+ },
+ {
+  "id": 20,
+  "item": "projector",
+  "buyer_budget": 1160,
+  "seller_floor": 790,
+  "list_price": 1590,
+  "feasible": true
+ }
+]
